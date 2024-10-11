@@ -47,6 +47,9 @@ To run this project locally, follow these steps:
 - **The page is fully responsive, allowing it to be viewed on any device, from mobile phones to desktops.**
 - **Use the navigation bar to easily move between sections, and enjoy the clean, modern design powered by Bootstrap.**
 
+## Screenshots
+![Logo do TinDog](Tin.png)
+
 ## Credits
 **This landing page was designed and developed using Bootstrap for responsive design. Special thanks to:**
 - **Bootstrap for providing an excellent framework for building responsive websites.**
